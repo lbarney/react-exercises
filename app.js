@@ -45,4 +45,4 @@ var HelloWorld = React.createClass({  //HelloWorld Component
 
 
 
-      ReactDOM.render(<Components/>, document.getElementById('root')); // Your are only allowed one render per file. 
+      ReactDOM.render(<Components/>, document.getElementById("root")); // Your are only allowed one render per file. 
